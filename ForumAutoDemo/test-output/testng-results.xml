@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-01T10:23:06 EDT" name="Default suite" finished-at="2024-05-01T10:23:18 EDT" duration-ms="11543">
+    <groups>
+    </groups>
+    <test started-at="2024-05-01T10:23:06 EDT" name="Default test" finished-at="2024-05-01T10:23:18 EDT" duration-ms="11543">
+      <class name="testcases.T01_homepageValidation">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testcases.T01_homepageValidation@223191a6]" started-at="2024-05-01T10:23:06 EDT" name="openBrowser" finished-at="2024-05-01T10:23:14 EDT" duration-ms="7488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="homepage()[pri:0, instance:testcases.T01_homepageValidation@223191a6]" started-at="2024-05-01T10:23:14 EDT" name="homepage" finished-at="2024-05-01T10:23:16 EDT" duration-ms="1761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.T01_homepageValidation@223191a6]" started-at="2024-05-01T10:23:16 EDT" name="tearDown" finished-at="2024-05-01T10:23:18 EDT" duration-ms="2173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.T01_homepageValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
